@@ -1,77 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cerulean/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
     <title>Weather Analysis Visualization</title>
 </head>
+
 <body id = "body">
 
-    
-    
-<body id = "body">
-
-    <nav class="navbar navbar-expand-md navbar-dark bg-primary">
-        <a class="navbar-brand" href="index.html">Latitude</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-                      <span class="navbar-toggler-icon"></span>
-        </button>
-                  
-        <div class="collapse navbar-collapse" id="navbarColor01">
+        <nav class="navbar navbar-expand-md navbar-dark bg-primary">
+          <a class="navbar-brand" href="index.html">Latitude</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
+            aria-controls="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class = "collapse navbar-collapse" id = "navbarNavDropdown">
             <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Plots</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="comparison.html">Comparison</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="data.html">Data</a>
-            </li>
+              <li class="nav-item drop down">
+                <div class ="dropdown show">
+                  <a class ="btn dropdown-toggle" href="#" id ="DropdownMenuLink" data-toggle="dropdown"aria-haspopup="true">Plots
+                    <span class="sr-only">(current)</span>
+                  </a>
+                  <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="humidity.html">Lat vs Humidity</a>
+                    <a class="dropdown-item" href="maxtemp.html">Lat vs Max Temp</a>
+                    <a class="dropdown-item" href="windspeed.html">Lat vs Wind</a>
+                    <a class="dropdown-item" href="cloudiness.html">Lat vs Cloudiness</a>
+                  </div>
+                </div>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="comparison.html">Comparison <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="data.html">Data <span class="sr-only">(current)</span></a>
+              </li>
             </ul>
-        </div>
+          </div>
         </nav>
-</body>
+    </body>
 
-<div class = "container">
+    <div class="container">
         <div class="row">
             <div class="col-md-8">
                 <div class="panel panel-default">
                     <div class="panel-body">
 
-                    <h2>Latitude vs. Temperature</h2>
-                    <hr>
-                    <img class="first image" src="Assets/latitude_vs_temp_scatter_plot.png" alt="first image" >
-                    <p class = "text">
+                        <h2>Latitude vs. Temperature</h2>
+                        <hr>
+                        <img class="first image" src="Assets/latitude_vs_temp_scatter_plot.png" alt="first image">
+                        <p class="text">
 
-                      The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.
-                      
-                    </p>
-                    <br>        
+                            As expected, the weather becomes significantly warmer as one approaches the equator.
+                            Remember, this data is from March and we see that the southern hemisphere tends to be warmer
+                            this time of year than the northern hemisphere. This may be due to the Earth's tilt. This
+                            plot could potentially change if testing later in the year.</p>
+
+                        </p>
+                        <br>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
-                        <div id="viz">                                    
-                            <h2>Visualizations</h2>
-                            <hr>
+                    <div id="viz">
+                        <h2>Visualizations</h2>
+                        <hr>
 
-                            <div class="row" >
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="temperature.html"><img class = "img img-responsive" src="assets\latitude_vs_temp_scatter_plot.png" style="width:100%" alt=""></a></div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="humidity.html"><img class = "img img-responsive" src="assets\latitude_vs_cloudiness_scatter_plot.png" style="width:100%" alt=""></a></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="cloudiness.html"><img class = "img img-responsive" src="assets\latitude_vs_windspeed_scatter_plot.png" style="width:100%" alt=""></a></div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="wind_speed.html"><img class = "img img-responsive" src="assets\humidity_vs_temp_scatter_plot.png" style="width:100%" alt=""></a></div>
-                            </div>
-                                
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="temperature.html"><img
+                                        class="img img-responsive" src="assets\latitude_vs_temp_scatter_plot.png"
+                                        style="width:100%" alt=""></a></div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="humidity.html"><img
+                                        class="img img-responsive" src="assets\latitude_vs_cloudiness_scatter_plot.png"
+                                        style="width:100%" alt=""></a></div>
                         </div>
-                </div>     
-            </div>    
-    </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="cloudiness.html"><img
+                                        class="img img-responsive" src="assets\latitude_vs_windspeed_scatter_plot.png"
+                                        style="width:100%" alt=""></a></div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="wind_speed.html"><img
+                                        class="img img-responsive" src="assets\humidity_vs_temp_scatter_plot.png"
+                                        style="width:100%" alt=""></a></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
+
 </html>
