@@ -44,3 +44,13 @@ width: 225px
 #dataviz {
     padding: 40px 40px 40px 40px;
 }
+
+#DropdownMenuLink {
+    color: whitesmoke
+}
+
+@media only screen and (orientation: landscape) {
+    body {
+      background-color: lightblue;
+    }
+  }
