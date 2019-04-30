@@ -1,0 +1,588 @@
+City,Cloudiness,Date,Humidity (%),Latitude,Longitude,Temperature (F),Wind Speed (MPH)
+zatoka,75,,87,50,50,43,2
+bethel,40,,65,60,60,43,18
+barrow,24,,85,-38,-38,57,12
+aksu,90,,100,52,52,28,6
+tiksi,64,,77,71,71,4,4
+norman wells,75,,64,65,65,33,16
+avarua,76,,94,-21,-21,78,16
+havelock,1,,57,34,34,50,9
+rikitea,80,,97,-23,-23,79,17
+punta arenas,75,,87,-53,-53,52,3
+hilo,40,,61,19,19,73,13
+ushuaia,40,,62,-54,-54,51,9
+grand river south east,0,,0,0,0,0,0
+umm jarr,0,,0,0,0,0,0
+samarai,92,,100,-10,-10,78,7
+plouzane,0,,93,48,48,46,8
+port alfred,0,,96,-33,-33,69,16
+upernavik,24,,100,72,72,-10,8
+biak,68,,89,0,0,81,2
+hobart,20,,64,-42,-42,66,10
+mrirt,0,,0,0,0,0,0
+severo-kurilsk,88,,99,50,50,30,19
+swan river,0,,75,52,52,36,13
+port elizabeth,1,,45,39,39,45,10
+carnarvon,76,,21,-30,-30,69,4
+cidreira,0,,93,-30,-30,64,6
+khurba,0,,53,50,50,15,3
+cape town,0,,93,-33,-33,65,6
+umzimvubu,0,,0,0,0,0,0
+mumford,0,,91,5,5,76,4
+sept-iles,90,,63,50,50,28,6
+kalach-na-donu,75,,90,48,48,33,15
+cabo san lucas,5,,53,22,22,72,8
+vestmannaeyjar,44,,100,63,63,36,22
+bilma,68,,13,18,18,74,11
+vaini,0,,60,15,15,68,0
+kiruna,32,,86,67,67,33,17
+boa vista,0,,43,2,2,87,8
+ulaangom,0,,59,49,49,-3,2
+mataura,92,,51,-46,-46,70,5
+qaanaaq,20,,78,77,77,-26,10
+kismayo,0,,0,0,0,0,0
+saint george,0,,80,39,39,41,4
+sao filipe,0,,98,14,14,69,13
+topeka,90,,71,39,39,53,16
+taolanaro,0,,0,0,0,0,0
+isangel,90,,74,-19,-19,84,6
+lebu,20,,51,8,8,59,4
+poum,0,,81,41,41,31,1
+marcona,0,,0,0,0,0,0
+manggar,80,,100,-2,-2,76,5
+yerbogachen,44,,60,61,61,6,6
+castro,90,,76,-42,-42,53,4
+semey,20,,92,50,50,26,2
+vardo,1,,35,39,39,42,11
+yellowknife,20,,43,62,62,11,10
+abonnema,24,,94,4,4,73,4
+komsomolskiy,88,,90,67,67,19,18
+hermanus,68,,95,-34,-34,63,2
+bluff,0,,63,-23,-23,83,5
+nikolskoye,90,,86,59,59,38,6
+wanxian,92,,99,30,30,39,3
+dikson,76,,93,73,73,18,23
+abu samrah,24,,78,35,35,50,4
+rostovka,0,,92,55,55,17,4
+butaritari,76,,100,3,3,80,8
+vila velha,75,,88,-3,-3,78,5
+saskylakh,0,,35,71,71,-24,2
+kodiak,90,,83,39,39,52,10
+zlobin,0,,74,45,45,50,4
+port lincoln,76,,93,-34,-34,66,10
+dauphin,90,,74,51,51,33,21
+likasi,92,,100,-10,-10,65,3
+busselton,12,,42,-33,-33,63,13
+belyy yar,0,,62,53,53,24,4
+albany,1,,43,42,42,28,10
+dubbo,56,,35,-32,-32,86,10
+khatanga,0,,28,71,71,-19,3
+jaciara,8,,64,-15,-15,79,3
+ruatoria,0,,0,0,0,0,0
+jalu,0,,68,29,29,60,10
+provideniya,88,,100,64,64,19,20
+ponta do sol,68,,87,-20,-20,69,2
+tibiri,0,,26,13,13,76,11
+yaritagua,20,,65,10,10,77,6
+puerto ayora,20,,78,0,0,80,10
+thompson,5,,47,55,55,12,13
+lamar,90,,61,38,38,48,17
+palabuhanratu,0,,0,0,0,0,0
+zaysan,0,,59,47,47,14,2
+pecos,1,,14,31,31,73,6
+kristiansund,75,,64,63,63,38,28
+geraldton,20,,21,49,49,48,10
+puerto leguizamo,88,,92,0,0,75,1
+gannan,0,,53,47,47,32,9
+ribeira grande,56,,100,38,38,57,25
+vila franca do campo,75,,71,37,37,55,13
+bengkulu,0,,0,0,0,0,0
+smirnykh,8,,66,49,49,15,7
+rungata,0,,0,0,0,0,0
+pangnirtung,76,,67,66,66,1,27
+vilhena,80,,86,-12,-12,76,1
+mar del plata,0,,81,-46,-46,54,4
+vallenar,0,,88,-28,-28,62,2
+columbus,1,,43,32,32,57,2
+tambopata,0,,0,0,0,0,0
+cockburn town,0,,97,21,21,79,13
+chuy,8,,81,-33,-33,65,11
+illoqqortoormiut,0,,0,0,0,0,0
+neuquen,0,,45,-38,-38,62,8
+paragominas,48,,90,-3,-3,77,5
+sangar,80,,62,63,63,8,3
+pisco,75,,78,-13,-13,71,19
+lydenburg,76,,95,-25,-25,69,1
+badou,20,,94,7,7,72,4
+lerwick,80,,81,60,60,40,27
+sao joao da barra,20,,98,-21,-21,80,12
+gat,0,,82,14,14,64,14
+chokurdakh,36,,72,70,70,-6,4
+beloha,12,,79,-25,-25,74,15
+paucartambo,0,,0,0,0,0,0
+port hardy,75,,62,50,50,51,8
+bethanien,0,,29,-26,-26,65,4
+tirumullaivasal,0,,97,11,11,75,4
+zhanakorgan,92,,89,43,43,47,5
+seoul,0,,38,37,37,42,5
+yar-sale,8,,76,66,66,7,3
+plettenberg bay,88,,92,-34,-34,69,6
+codrington,0,,55,-28,-28,88,10
+rawson,80,,67,-43,-43,57,21
+deep river,1,,40,46,46,32,10
+saint-philippe,1,,50,45,45,30,16
+tuktoyaktuk,75,,78,69,69,15,24
+chabahar,56,,96,25,25,73,5
+konotop,12,,78,51,51,24,2
+hithadhoo,92,,100,0,0,86,7
+mount gambier,90,,82,-37,-37,66,11
+ampanihy,0,,80,-24,-24,72,11
+cabedelo,40,,83,-6,-6,80,4
+hofn,76,,100,64,64,39,22
+alugan,36,,87,12,12,78,12
+bambous virieux,75,,88,-20,-20,77,13
+ketchikan,90,,87,55,55,49,8
+abeche,0,,38,13,13,73,3
+atuona,64,,99,-9,-9,82,16
+pasni,92,,83,25,25,75,10
+vaitupu,0,,0,0,0,0,0
+victoria,75,,88,5,5,82,4
+mahon,40,,80,51,51,39,8
+inta,80,,78,66,66,27,9
+mantua,0,,61,45,45,48,2
+souillac,0,,71,45,45,48,3
+uppsala,0,,59,59,59,38,13
+mahebourg,75,,88,-20,-20,77,13
+clyde river,90,,75,70,70,-14,18
+juneau,75,,66,58,58,51,17
+kapaa,75,,78,22,22,73,24
+brezice,0,,93,45,45,41,1
+makushino,76,,80,55,55,24,4
+petropavlovsk-kamchatskiy,75,,74,53,53,32,6
+klaksvik,64,,86,62,62,41,13
+sobolevo,64,,74,54,54,32,11
+canton,1,,43,40,40,34,4
+takoradi,8,,100,4,4,81,5
+diego de almagro,0,,76,-26,-26,63,2
+morondava,20,,95,-20,-20,78,6
+burnie,92,,91,-41,-41,64,8
+nizhneyansk,0,,0,0,0,0,0
+attawapiskat,0,,0,0,0,0,0
+daru,56,,89,7,7,72,4
+itapirapua,0,,85,-15,-15,75,4
+luderitz,48,,94,-26,-26,58,9
+korem,44,,83,12,12,54,1
+laguna,5,,40,27,27,73,6
+kavieng,64,,99,-2,-2,84,6
+richards bay,44,,95,-28,-28,70,7
+jamestown,80,,70,-33,-33,71,14
+havoysund,36,,68,71,71,30,10
+loubomo,0,,0,0,0,0,0
+igboho,8,,66,8,8,77,8
+puerto del rosario,0,,77,28,28,61,10
+temecula,1,,76,33,33,59,8
+meghri,24,,95,38,38,24,0
+sibolga,88,,100,1,1,69,1
+gatesville,40,,72,31,31,68,9
+olenegorsk,8,,73,68,68,31,7
+dicabisagan,20,,96,17,17,76,3
+garliava,0,,86,54,54,39,10
+margate,20,,64,-43,-43,66,10
+novyy urgal,20,,57,51,51,10,3
+labuhan,88,,95,-2,-2,75,0
+airai,24,,69,-8,-8,78,2
+tasiilaq,0,,47,65,65,12,3
+talnakh,64,,81,69,69,5,6
+wagar,8,,52,31,31,60,4
+tual,12,,100,-5,-5,81,8
+vila,0,,77,45,45,49,6
+sakakah,0,,0,0,0,0,0
+carutapera,92,,90,-1,-1,78,7
+new norfolk,20,,64,-42,-42,66,10
+juba,8,,86,57,57,35,13
+carbonear,90,,100,47,47,36,14
+chicama,40,,83,-7,-7,69,9
+hasaki,20,,37,35,35,50,6
+louisbourg,0,,0,0,0,0,0
+taoudenni,68,,19,22,22,69,7
+mezen,88,,81,65,65,32,9
+waipawa,44,,50,-39,-39,74,3
+kijang,0,,38,35,35,42,9
+guipavas,0,,93,48,48,46,8
+tsihombe,0,,0,0,0,0,0
+lichinga,92,,98,-13,-13,65,3
+saldanha,0,,68,41,41,44,4
+eston,40,,75,51,51,40,21
+haapiti,20,,70,-17,-17,87,14
+cheshire,1,,32,41,41,35,10
+kuhestan,0,,0,0,0,0,0
+doha,0,,78,25,25,70,3
+mackay,90,,48,53,53,42,12
+samusu,0,,0,0,0,0,0
+constitucion,5,,10,23,23,71,10
+cozumel,0,,0,0,0,0,0
+ilulissat,56,,54,69,69,1,20
+lima,0,,78,-12,-12,72,11
+huilong,92,,96,28,28,43,3
+kushima,20,,100,31,31,50,6
+savannah bight,0,,100,16,16,77,8
+severodvinsk,90,,90,64,64,33,8
+beringovskiy,92,,88,63,63,16,19
+sauda,88,,84,59,59,37,1
+wajir,0,,70,1,1,75,11
+nanortalik,80,,100,60,60,24,22
+bur gabo,0,,0,0,0,0,0
+guerrero negro,0,,57,27,27,67,12
+malanje,88,,98,-9,-9,69,4
+torbay,90,,100,47,47,36,14
+vao,44,,84,59,59,34,13
+batagay-alyta,56,,77,67,67,4,4
+taga dzong,0,,0,0,0,0,0
+barra do garcas,0,,82,-15,-15,74,5
+san quintin,12,,43,17,17,84,3
+fortuna,0,,76,38,38,50,2
+lobito,80,,81,-12,-12,69,3
+halalo,0,,0,0,0,0,0
+evensk,0,,89,61,61,30,15
+staroaleyskoye,0,,49,51,51,28,4
+cururupu,64,,89,-1,-1,77,5
+amderma,0,,0,0,0,0,0
+oktyabrskoye,75,,91,56,56,32,6
+esperance,20,,78,10,10,77,8
+cherskiy,12,,66,68,68,10,2
+helvecia,32,,74,-31,-31,65,9
+srednekolymsk,12,,70,67,67,19,3
+aklavik,20,,62,68,68,23,12
+moyale,0,,51,3,3,64,4
+qarchi gak,0,,87,37,37,43,6
+podgornoye,80,,84,57,57,29,3
+grand gaube,75,,88,-20,-20,78,13
+berdigestyakh,68,,62,62,62,13,6
+sylacauga,75,,54,33,33,57,1
+izacic,0,,80,44,44,32,2
+osterburg,48,,87,52,52,39,1
+lamballe,0,,93,48,48,43,6
+sinnamary,100,,96,5,5,79,11
+freeport,20,,73,26,26,69,2
+cangzhou,0,,50,38,38,54,14
+bushehr,0,,56,28,28,65,4
+shubarshi,88,,83,48,48,39,3
+saint pete beach,1,,63,27,27,64,0
+shingu,40,,53,33,33,50,12
+mapimi,5,,12,25,25,79,6
+port blair,0,,100,11,11,82,7
+georgetown,20,,78,6,6,78,9
+lasa,0,,76,34,34,49,2
+zhangjiakou,0,,54,40,40,46,10
+tecoanapa,5,,83,16,16,80,6
+chiredzi,12,,94,-21,-21,68,6
+rumford,1,,54,44,44,29,14
+general roca,0,,45,-39,-39,62,8
+calmar,75,,90,53,53,37,2
+kununurra,0,,55,-15,-15,91,12
+dien bien,0,,0,0,0,0,0
+harper,75,,88,30,30,65,6
+suchedniow,20,,1,51,51,43,9
+atambua,44,,100,-9,-9,81,4
+kushiro,75,,86,43,43,26,10
+deputatskiy,0,,68,69,69,8,4
+coahuayana,0,,57,18,18,62,2
+bredasdorp,92,,83,-34,-34,65,4
+ngunguru,0,,77,-35,-35,71,1
+bo phloi,0,,50,14,14,90,4
+sur,44,,99,22,22,71,1
+tezu,0,,75,27,27,59,1
+whitehorse,75,,49,60,60,45,14
+kupang,20,,70,-10,-10,86,5
+zeitz,92,,93,51,51,44,1
+hamilton,75,,63,32,32,64,20
+yulara,24,,27,-25,-25,89,8
+loa janan,0,,65,0,0,89,2
+arraial do cabo,12,,92,-22,-22,77,9
+wamba,32,,84,2,2,70,3
+sitka,0,,54,37,37,57,7
+east london,0,,91,-33,-33,75,21
+barentsburg,0,,0,0,0,0,0
+eydhafushi,32,,96,5,5,85,8
+tosya,0,,84,41,41,17,2
+nemuro,75,,68,43,43,26,9
+padang,40,,88,0,0,78,3
+ixtapa,5,,78,20,20,76,9
+marrakesh,75,,72,31,31,59,6
+adelaide,0,,60,-34,-34,74,10
+waddan,0,,90,29,29,45,6
+abu zabad,8,,32,12,12,67,6
+kayes,44,,70,14,14,73,2
+sakaiminato,75,,81,35,35,45,5
+kiama,64,,54,-34,-34,81,1
+aquiraz,75,,88,-3,-3,78,5
+nome,90,,60,30,30,66,5
+salalah,40,,78,17,17,78,6
+cochrane,12,,90,-47,-47,36,2
+san patricio,0,,83,-26,-26,61,2
+bosaso,0,,100,11,11,76,7
+ndioum,36,,68,16,16,62,10
+touros,40,,94,-5,-5,78,6
+norfolk,1,,65,36,36,47,5
+egvekinot,80,,74,66,66,4,4
+ochakiv,0,,100,46,46,32,6
+lompoc,75,,67,34,34,59,21
+katsuura,40,,46,33,33,49,8
+mys shmidta,0,,0,0,0,0,0
+zhumadian,80,,71,33,33,56,4
+conceicao do araguaia,92,,98,-8,-8,73,3
+kavaratti,12,,100,10,10,83,10
+maltahohe,0,,72,-24,-24,59,2
+samalaeulu,0,,0,0,0,0,0
+cayenne,75,,83,4,4,78,8
+vostok,0,,41,46,46,24,3
+lagoa,0,,72,37,37,55,11
+mana,0,,78,43,43,35,2
+bonthe,44,,85,7,7,78,2
+bokspits,0,,0,0,0,0,0
+oranjemund,92,,92,-28,-28,62,2
+skjervoy,92,,100,70,70,35,8
+galle,90,,73,29,29,68,10
+dingle,0,,55,11,11,84,15
+miraflores,80,,99,5,5,53,1
+luba,12,,43,17,17,84,3
+scottsbluff,90,,81,41,41,43,3
+dvinskoy,92,,85,62,62,29,10
+san cristobal,20,,93,0,0,51,1
+husavik,12,,80,50,50,38,7
+lazaro cardenas,5,,14,28,28,73,13
+estelle,75,,68,32,32,67,16
+rampura,0,,59,24,24,72,3
+nanakuli,75,,54,21,21,77,5
+anaco,0,,51,9,9,78,14
+carrollton,1,,34,33,33,56,1
+palmer,90,,61,61,61,45,14
+calbuco,0,,87,-41,-41,51,4
+beyneu,0,,83,45,45,33,3
+honningsvag,64,,94,70,70,28,7
+tazovskiy,68,,100,67,67,18,6
+pacific grove,40,,62,36,36,56,9
+tromso,75,,100,69,69,32,5
+port moresby,90,,74,-9,-9,82,5
+muncar,8,,93,-8,-8,83,1
+las vegas,1,,19,36,36,67,18
+leogane,75,,69,18,18,80,8
+leshukonskoye,92,,81,64,64,32,9
+harindanga,0,,64,22,22,73,3
+iqaluit,90,,77,63,63,6,29
+port shepstone,76,,89,-30,-30,75,23
+leningradskiy,76,,83,69,69,-2,19
+marathopolis,0,,0,0,0,0,0
+kamenskoye,0,,0,0,0,0,0
+port hedland,75,,83,-20,-20,80,43
+milkovo,8,,60,41,41,46,4
+kaitangata,100,,67,-46,-46,69,3
+gondal,0,,60,21,21,76,4
+darhan,0,,38,49,49,41,6
+ostrovnoy,0,,87,68,68,30,19
+tucuma,0,,0,0,0,0,0
+lethem,0,,52,3,3,83,13
+gornopravdinsk,44,,86,60,60,28,3
+beboto,76,,38,8,8,81,9
+wangaratta,64,,60,-36,-36,73,10
+besuki,32,,98,-7,-7,81,4
+port hawkesbury,90,,92,45,45,34,14
+isiro,48,,81,2,2,71,4
+ksenyevka,0,,0,0,0,0,0
+mooi river,0,,0,0,0,0,0
+bakchar,76,,95,57,57,28,3
+sandakan,75,,74,5,5,80,6
+saleaula,0,,0,0,0,0,0
+bandar-e lengeh,0,,72,26,26,68,16
+roebourne,100,,70,-20,-20,81,39
+alyangula,40,,70,-13,-13,87,11
+sao jose da coroa grande,24,,96,-8,-8,76,5
+acoyapa,0,,45,11,11,83,12
+kaspiyskiy,92,,99,45,45,40,8
+kungurtug,0,,58,50,50,28,3
+le port,0,,61,42,42,41,1
+altamira,92,,91,-3,-3,76,3
+singleton,32,,55,-32,-32,87,9
+portoferraio,0,,81,42,42,51,4
+eureka,1,,76,40,40,52,6
+half moon bay,1,,76,37,37,56,11
+aginskoye,12,,38,51,51,32,16
+kirakira,56,,100,-10,-10,83,9
+fort nelson,75,,52,58,58,42,5
+biloela,0,,43,-24,-24,90,6
+cape elizabeth,0,,0,0,0,0,0
+te anau,88,,68,-45,-45,65,9
+balkanabat,76,,93,39,39,42,5
+avera,1,,47,33,33,54,3
+eldikan,0,,0,0,0,0,0
+lonar,0,,32,19,19,79,9
+lewistown,75,,46,40,40,49,5
+cloquet,1,,48,46,46,42,5
+hasanabad,75,,32,35,35,54,4
+teya,40,,57,21,21,76,17
+celestun,8,,93,20,20,78,21
+ranau,75,,79,5,5,85,1
+balimo,0,,0,0,0,0,0
+kaabong,0,,54,3,3,66,7
+bergerac,0,,56,44,44,49,1
+wawa,48,,62,9,9,74,10
+dwarka,0,,77,28,28,70,4
+bandarbeyla,92,,100,9,9,79,9
+bousso,0,,0,0,0,0,0
+belushya guba,0,,0,0,0,0,0
+doctor pedro p. pena,0,,0,0,0,0,0
+tilichiki,0,,76,60,60,17,7
+roald,40,,75,62,62,34,20
+robertsport,8,,100,6,6,81,8
+paamiut,44,,100,61,61,20,9
+carauari,56,,95,-4,-4,77,3
+orje,0,,59,59,59,36,10
+achacachi,32,,86,-16,-16,35,2
+san andres,0,,99,13,13,80,13
+sacadat,0,,64,47,47,36,9
+kangaatsiaq,56,,100,68,68,6,17
+ekibastuz,88,,87,51,51,30,3
+lazarev,0,,68,52,52,21,8
+shenjiamen,36,,91,29,29,52,10
+tagusao,32,,68,9,9,86,4
+serabu,44,,83,7,7,76,3
+lastoursville,92,,98,0,0,70,1
+aswan,0,,22,24,24,78,10
+os,0,,0,0,0,0,0
+watertown,1,,80,44,44,40,3
+do gonbadan,0,,71,30,30,55,0
+chapais,20,,48,49,49,19,5
+himora,0,,0,0,0,0,0
+narrabri,36,,24,-30,-30,95,16
+el sauzal,0,,88,-24,-24,64,4
+choya,24,,67,52,52,39,2
+hobyo,88,,79,5,5,81,13
+mount isa,90,,69,-20,-20,80,17
+sioux lookout,75,,60,50,50,45,8
+pandharpur,0,,27,17,17,80,4
+moosomin,0,,90,50,50,32,15
+flinders,64,,54,-34,-34,84,1
+salekhard,48,,61,66,66,9,6
+storslett,80,,97,69,69,26,2
+asau,0,,0,0,0,0,0
+pevek,0,,76,69,69,-3,3
+besikduzu,75,,88,41,41,41,10
+itarema,92,,94,-2,-2,75,1
+sentyabrskiy,0,,0,0,0,0,0
+altonia,0,,0,0,0,0,0
+zyryanka,24,,72,65,65,12,3
+sinkat,0,,0,0,0,0,0
+peniche,0,,47,39,39,58,3
+arman,24,,62,59,59,26,7
+mackenzie,40,,42,55,55,48,9
+brownsville,90,,78,25,25,73,12
+selikhino,0,,75,50,50,19,5
+saint-leu,0,,78,-21,-21,74,6
+mishan,76,,80,45,45,32,9
+rokytne,32,,69,51,51,31,6
+kota belud,75,,79,6,6,84,1
+sungaipenuh,44,,81,-2,-2,75,1
+qaqortoq,80,,36,60,60,15,4
+hwange,0,,61,-18,-18,70,12
+las cruces,0,,82,-33,-33,56,2
+bhuj,0,,63,23,23,74,10
+bathsheba,40,,69,13,13,78,16
+krasnoselkup,0,,0,0,0,0,0
+bondo,76,,95,3,3,72,3
+safranbolu,76,,87,41,41,30,1
+longlac,0,,0,0,0,0,0
+algiers,1,,68,29,29,62,6
+emerald,0,,52,-23,-23,87,9
+glens falls,1,,37,43,43,29,9
+inuvik,20,,62,68,68,23,12
+los llanos de aridane,92,,55,28,28,58,9
+yarkovo,0,,97,54,54,32,6
+acapulco,5,,83,16,16,80,6
+omagh,8,,83,54,54,36,10
+kruisfontein,88,,83,-34,-34,66,4
+kalmunai,0,,83,7,7,81,3
+yarovoye,80,,91,52,52,32,6
+astoria,1,,76,46,46,52,5
+valparaiso,1,,64,41,41,42,3
+dolzhanskaya,8,,100,46,46,37,16
+tucuman,0,,69,-17,-17,60,2
+aitape,12,,83,-3,-3,85,5
+tiznit,92,,100,29,29,59,6
+santa helena de goias,88,,94,-17,-17,71,4
+kutum,0,,48,14,14,60,2
+edd,24,,89,13,13,67,1
+nhulunbuy,75,,70,-12,-12,86,8
+derzhavinsk,80,,98,51,51,31,4
+monroe,1,,80,41,41,38,6
+tahoua,8,,27,14,14,75,11
+iwanai,80,,100,42,42,30,17
+camacha,20,,72,33,33,60,8
+swan hill,88,,85,-35,-35,69,10
+malhador,40,,78,-10,-10,82,5
+tumannyy,0,,0,0,0,0,0
+nantucket,1,,60,41,41,39,19
+olinda,75,,74,-2,-2,81,11
+manyana,64,,54,-35,-35,79,1
+kindu,56,,96,-2,-2,72,2
+moscow,0,,67,55,55,28,6
+ostashkov,92,,92,57,57,34,16
+gueret,0,,57,46,46,43,5
+kracheh,0,,0,0,0,0,0
+denau,0,,0,0,0,0,0
+kharakvasla,0,,44,18,18,78,3
+port-cartier,90,,63,50,50,28,6
+kuroiso,75,,51,36,36,37,17
+meulaboh,88,,100,4,4,78,4
+tuatapere,44,,77,-46,-46,70,4
+xai-xai,88,,96,-25,-25,76,7
+botwood,90,,86,49,49,36,10
+mahadday weyne,0,,0,0,0,0,0
+liku,76,,80,0,0,84,1
+chimbote,24,,89,-9,-9,68,5
+baherden,0,,81,38,38,40,5
+nardaran,75,,93,40,40,50,9
+majengo,0,,69,0,0,61,6
+sortland,90,,93,68,68,36,35
+colares,0,,45,38,38,59,10
+wadi maliz,20,,93,36,36,47,3
+ambunti,68,,81,-4,-4,83,2
+xining,24,,38,36,36,35,2
+narsaq,76,,36,60,60,15,4
+kovdor,24,,79,67,67,28,7
+kailua,20,,55,21,21,77,12
+juybar,0,,100,36,36,49,2
+same,32,,65,-9,-9,83,1
+turriff,68,,77,57,57,38,12
+ulladulla,64,,54,-35,-35,78,1
+necochea,64,,72,-38,-38,61,8
+taltal,0,,95,-25,-25,56,2
+kizukuri,75,,58,40,40,28,17
+ellwangen,0,,86,47,47,36,4
+zhuhai,0,,29,40,40,33,4
+ye,0,,0,0,0,0,0
+durban,0,,75,43,43,45,6
+churachandpur,0,,66,24,24,74,1
+belmonte,0,,53,40,40,55,1
+namibe,88,,100,-15,-15,78,1
+westport,92,,76,53,53,40,17
+yumen,0,,43,40,40,41,0
+fort saint james,0,,82,54,54,31,1
+comodoro rivadavia,0,,76,-45,-45,57,1
+tema,0,,88,5,5,80,11
+spodnja idrija,0,,78,46,46,44,1
+hay river,75,,79,60,60,19,11
+le vauclin,0,,73,14,14,77,10
+beroroha,0,,86,-21,-21,70,6
+mehamn,32,,76,71,71,23,7
+basoko,64,,99,1,1,70,3
+ganzhou,100,,100,25,25,50,3
+huarmey,44,,82,-10,-10,66,2
+douglas,1,,14,31,31,64,12
+linxia,12,,55,35,35,38,3
+lorengau,68,,97,-2,-2,83,10
+byron bay,0,,66,-28,-28,86,8
+campoverde,5,,75,41,41,49,3
+turayf,75,,71,31,31,55,6
+portland,90,,54,45,45,54,9
+katsiveli,0,,0,0,0,0,0
+san joaquin,0,,55,10,10,84,15

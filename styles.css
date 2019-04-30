@@ -1,0 +1,46 @@
+/* class is (.) and ID is (#) */
+
+.container {
+    background-color: whitesmoke  }
+
+.viz {
+    background-color: whitesmoke
+}
+
+.temp_plot {
+float: left;
+padding: 0 10px 0 0;
+height: 225px;
+width: 225px 
+}
+
+#hum_plot {
+    padding: 0 10px 0 0;
+    float: right;
+}
+
+#comptext {
+    text-align: center
+}
+
+.pad_pic {
+    padding: 40px 40px 40px 40px;
+}
+
+#vshum {
+    height: 75px;
+    width: 75px
+}
+
+#vstemp {
+    height: 75px;
+    width: 75px
+}
+
+#datatable {
+    background-color: whitesmoke;
+}
+
+#dataviz {
+    padding: 40px 40px 40px 40px;
+}
